@@ -95,6 +95,6 @@ Result: ![Screenshot from 2024-11-07 01-20-19](https://github.com/baong7724/Viet
 
 ![Screenshot from 2024-11-07 01-21-34](https://github.com/baong7724/Viettel-Cloud-Challenge/blob/main/Challenge3_NginxProxy/Result/Screenshot%20from%202024-11-07%2001-21-34.png?raw=true)
 
-![Screenshot from 2024-11-07 01-21-42](https://github.com/baong7724/Viettel-Cloud-Challenge/blob/main/Challenge3_NginxProxy/Screenshot%20from%202024-11-07%2001-21-42.png?raw=true)
+![Screenshot from 2024-11-07 01-21-42](https://github.com/baong7724/Viettel-Cloud-Challenge/blob/main/Challenge3_NginxProxy/Result/Screenshot%20from%202024-11-07%2001-21-42.png?raw=true)
 
 
